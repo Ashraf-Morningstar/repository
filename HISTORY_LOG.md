@@ -1,1 +1,1 @@
-Last Update: 2020-02-07T16:45:00Z - fix: Auth form validation styling
+Last Update: 2020-02-10T11:00:00Z - feat: Add login functionality
