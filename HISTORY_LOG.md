@@ -1,2 +1,2 @@
 
-- [2024-11-27T10:00:00Z] feat: Initial project setup
+- [2024-11-28T11:00:00Z] chore: Add basic routing and layout components
