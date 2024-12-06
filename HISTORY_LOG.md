@@ -1,2 +1,2 @@
 
-- [2024-12-03T14:30:00Z] feat: Implement basic user registration form
+- [2024-12-06T11:45:00Z] feat: Integrate bcrypt for password hashing (Co-authored-by: Aisha-Nightsky)
