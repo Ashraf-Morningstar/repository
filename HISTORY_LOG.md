@@ -1,2 +1,2 @@
 
-- [2024-11-27T10:00:00Z] feat: Initial project setup
+- [2024-12-06T11:45:00Z] feat: Integrate bcrypt for password hashing (Co-authored-by: Aisha-Nightsky)
