@@ -1,2 +1,2 @@
 
-- [2024-11-27T10:00:00Z] feat: Initial project setup
+- [2025-03-04T11:00:00Z] fix: Resolve login failure for unsupported browsers (YOLO)
