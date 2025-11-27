@@ -1,2 +1,2 @@
 
-- [2024-11-27T10:00:00Z] feat: Initial project setup
+- [2025-04-08T14:00:00Z] feat: Basic admin layout and user list component
